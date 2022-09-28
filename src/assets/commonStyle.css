@@ -1,0 +1,24 @@
+
+a {
+  text-decoration: none;
+}
+
+.thumbnailBox {
+  height: 0px;
+  overflow: hidden;
+  padding-bottom: 56.26%;
+  position: relative;
+  width: 100%;
+}
+.thumbnailView {
+  align-items: center;
+  background-color: black;
+  color: white;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
